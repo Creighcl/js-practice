@@ -37,3 +37,5 @@
   [teamname]: ...
 }
 ```
+
+JSON String to test against: "{\"Team Cloud\":{\"males\":{\"count\":5,\"avgBalance\":2872.2,\"totalBalance\":14361},\"females\":{\"count\":4,\"avgBalance\":3072.88,\"totalBalance\":12291.52}},\"Team Leaf\":{\"males\":{\"count\":3,\"avgBalance\":2727.32,\"totalBalance\":8181.97},\"females\":{\"count\":7,\"avgBalance\":3311.29,\"totalBalance\":23179.04}},\"Team Puddle\":{\"males\":{\"count\":4,\"avgBalance\":2954.59,\"totalBalance\":11818.37},\"females\":{\"count\":6,\"avgBalance\":2860.63,\"totalBalance\":17163.76}}}"
